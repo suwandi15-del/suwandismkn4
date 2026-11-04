@@ -1,0 +1,6 @@
+{
+  "name": "EDU LEGENDS: POWER SURVIVAL",
+  "description": "Game Pembelajaran Interaktif Matematika Berbasis MOBA - Sifat-Sifat Bilangan Berpangkat oleh Suwandi, S.Pd. SMKN 4 Soppeng",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
